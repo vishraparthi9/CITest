@@ -1,6 +1,6 @@
 # CITest
 
-Install Jenkins
+## Install Jenkins
 
 * Download war from here: https://updates.jenkins-ci.org/download/war/
 * Run the jar from command line: java -jar <jenkins.war>
@@ -10,3 +10,8 @@ Install Jenkins
 * Click **Save & Finish**
 * In the next page, click **Start using Jenkins**
 * The actual Jenkins home page is displayed at this point
+
+## Setup Local Nexus Repository
+
+* Download and unzip latest Nexus OSS from here: https://www.sonatype.com/download-oss-sonatype
+* There should be a bin folder which has nexus start up script. So, start nexus using that: ./bin/nexus
