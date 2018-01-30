@@ -14,4 +14,4 @@
 ## Setup Local Nexus Repository
 
 * Download and unzip latest Nexus OSS from here: https://www.sonatype.com/download-oss-sonatype
-* There should be a bin folder which has nexus start up script. So, start nexus using that: ./bin/nexus
+* There will be a bin folder usually in this path: nexus-3.7.1-02-mac/nexus-3.7.1-02/ considering that nexus-3.7.1 is the version downloaded. So, start nexus using that: **./bin/nexus**
