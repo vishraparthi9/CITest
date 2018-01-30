@@ -15,3 +15,6 @@
 
 * Download and unzip latest Nexus OSS from here: https://www.sonatype.com/download-oss-sonatype
 * There will be a bin folder usually in this path: nexus-3.7.1-02-mac/nexus-3.7.1-02/ considering that nexus-3.7.1 is the version downloaded. So, start nexus using that: **./bin/nexus**
+
+## SSH between Jenkins and Git
+* Follow these steps: https://mohitgoyal.co/2017/02/27/configuring-ssh-authentication-between-github-and-jenkins/
